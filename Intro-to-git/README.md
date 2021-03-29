@@ -1,0 +1,1 @@
+This directory contains files pertaining to the Intro to Git modules (on Learn) for Ada Development Academy's C15 Curriculum.
